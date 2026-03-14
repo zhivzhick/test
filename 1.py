@@ -1,2 +1,1 @@
-print("hello? world")
-print("hello, world")
+print("Привет, Анна. Я тебя люблю! ❤️")
